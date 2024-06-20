@@ -20,6 +20,11 @@ const data: Data = {
       title: 'Playlist Spotify',
       image: ''
     },
+    {
+      href: 'https://sijabright.my.id/discord',
+      title: 'Discord Server',
+      image: ''
+    },
   ],
   socials: [
     {
