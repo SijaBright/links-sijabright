@@ -29,8 +29,8 @@ export default function Home() {
         ))}
       </div>
       <div className='flex justify-center my-8 text-white'>
-        <a href='https://fzzzn.my.id/' target='_blank'>
-          © 2024 Rizky Fauzan Hanif
+        <a href='#'>
+          © 2024 SIJABRIGHT
         </a>
       </div>
     </div>

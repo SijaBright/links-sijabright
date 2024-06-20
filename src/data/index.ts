@@ -1,46 +1,34 @@
 import { Data } from '@/typings';
 
 const data: Data = {
-  name: 'Rizky Fauzan Hanif',
-  avatar: 'https://avatars.githubusercontent.com/u/80439646',
-  description: 'Tech enthusiast',
+  name: 'SIJABRIGHT',
+  avatar: 'sija.svg',
+  description: 'XI SIJA B SMKN 2 Depok Sleman',
   links: [
     {
-      href: 'https://fzzzn.my.id',
-      title: 'Personal Website',
-      image: 'https://fzzzn.my.id/content/images/2024/02/Rizky-Fauzan-Hanif-square-photoaidcom-cropped-1.jpg',
+      href: 'https://sijabright.my.id',
+      title: 'Website (Coming Soon)',
+      image: '',
     },
     {
-      href: 'https://status.zxn.my.id',
-      title: 'Status Page',
-      image: 'uptime-kuma.svg'
+      href: 'https://drive.google.com/drive/folders/11ksQrFXMg94s0NBURrZpm1I3WYGo3QTF',
+      title: 'Moments',
+      image: '',
     },
     {
-      href: 'https://grafana.zxn.my.id',
-      title: 'Monitoring',
-      image: 'grafana.svg'
+      href: 'https://open.spotify.com/playlist/0UuxAyWmnsXWsHSe7Tnx0W?si=BFNXU9e7TOea4NGP4LM1jA',
+      title: 'Playlist Spotify',
+      image: ''
     },
   ],
   socials: [
     {
-      href: 'mailto:fauzan@zxn.my.id',
-      title: 'email',
-    },
-    {
-      href: 'https://twitter.com/nuggetgeprek_',
-      title: 'twitter',
-    },
-    {
-      href: 'https://instagram.com/eenthlh',
+      href: 'https://instagram.com/sijabright',
       title: 'instagram',
     },
     {
-      href: 'https://github.com/fzzzn',
-      title: 'github',
-    },
-    {
-      href: 'https://linkedin.com/in/rizky-fauzan-hanif',
-      title: 'linkedin',
+      href: 'https://www.tiktok.com/@sijabandel',
+      title: 'tiktok',
     },
   ],
 };

@@ -7,8 +7,8 @@ const cabinetGrotesk = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'Links - fzzzn.',
-  description: 'Links - fzzzn.',
+  title: 'Links - SIJABRIGHT',
+  description: 'Links - SIJABRIGHT',
 };
 
 export default function RootLayout({
