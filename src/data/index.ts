@@ -3,11 +3,11 @@ import { Data } from '@/typings';
 const data: Data = {
   name: 'SIJABRIGHT',
   avatar: 'sija.svg',
-  description: 'XI SIJA B SMKN 2 Depok Sleman',
+  description: 'XII SIJA BRIGHT - SMK NEGERI 2 DEPOK SLEMAN',
   links: [
     {
       href: 'https://sijabright.my.id',
-      title: 'Website (Coming Soon)',
+      title: 'Website',
       image: '',
     },
     {
