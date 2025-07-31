@@ -30,7 +30,6 @@ const LinkSocial: React.FC<Social> = ({ href, title }) => {
     if (titleLower.includes("telegram")) return <SiTelegram size="20px" />;
     if (titleLower.includes("discord")) return <SiDiscord size="20px" />;
 
-    // Default icon for unknown platforms
     return (
       <svg width="20px" height="20px" fill="currentColor" viewBox="0 0 20 20">
         <path
